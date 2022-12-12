@@ -1,4 +1,4 @@
-# nmstate-ts-proposal
+# nmstate-console-plugin-proposal
 
 Proposal to add [nmstate-console-plugin](https://github.com/upalatucci/nmstate-console-plugin) as a repo under the `nmstate` org namespace
 
