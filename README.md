@@ -1,13 +1,12 @@
 # nmstate-ts-proposal
 
-Proposal to add [nmstate-ts](https://github.com/upalatucci/nmstate-ts) as a repo in the `nmstate` org namespace
+Proposal to add [nmstate-console-plugin](https://github.com/upalatucci/nmstate-console-plugin) as a repo under the `nmstate` org namespace
 
-`NMState-ts` is a typescript types library that would help developers write nmstate compatible code. 
-It generates types based on `kubenertes-nmstate` crds under `models` folder and under `custom-models` there are handcrafter non-crds types like interface 
-(Maybe later we'll find a way to generate them as well). 
+`nmstate-console-plugin` is an openshift web console plugin. 
+It will be used to list, create, delete and manage nmstate resources using the console UI.
 
-I'm working on another repo where these types will be used to create the [nmstate ui console plugin](https://github.com/upalatucci/nmstate-console-plugin).
+NOTE: openshift web console can be installed also in k8s clusters.
 
 - [x] CI enabled and passed.
-- [x] Has integration test cases proving valid use cases. (no need for them. this library contain only types)
+- [x] Has integration test cases proving valid use cases. (For now just one react test but we can discuss about how to create also e2e tests)
 - [x] Licensed under LGPL-2.0+ or Apache-2.0+(preferred).
