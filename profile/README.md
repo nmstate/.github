@@ -56,3 +56,4 @@ For requesting new new repository, please use pull request against
  * CI enabled and passed.
  * Has integration test cases proving valid use cases.
  * Licensed under LGPL-2.0+ or Apache-2.0+(preferred).
+ * Please name at lease two maintainers for this new repository.
