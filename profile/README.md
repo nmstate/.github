@@ -50,6 +50,7 @@ Any pull request is welcome, please reach out these repositories:
  * Rust, Python, C API: <https://github.com/nmstate/nmstate>
  * Documentation: <https://github.com/nmstate/nmstate.github.io>
  * Kubernetes API: <https://github.com/nmstate/kubernetes-nmstate>
+ * Nmstate OpenShift Web Console Plugin: <https://github.com/nmstate/nmstate-console-plugin>
 
 For requesting new new repository, please use pull request against
 <https://github.com/nmstate/.github/> after below requirements been fulfilled:
