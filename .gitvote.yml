@@ -52,12 +52,10 @@ automation:
   enabled: true
   rules:
     - patterns:
-        - "CODE_OF_CONDUCT.md"
         - "GOVERNANCE.md"
         - "LICENSE"
         - "MAINTAINERS.md"
         - "OWNERS"
-        - "SECURITY.md"
         - ".github/CODEOWNERS"
       profile: default
 
